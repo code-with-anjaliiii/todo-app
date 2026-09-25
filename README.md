@@ -5,12 +5,14 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 ## Features
 - Add new tasks
 - Delete tasks
+- Data persists even after page refresh
 - Clean and responsive UI
 
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript (DOM Manipulation)
+- LocalStorage (Data Persistence)
 
 ## What I Learned
 - DOM element selection and manipulation
